@@ -1,0 +1,553 @@
+Patient_seen_at,Gender,Age,height,weight,BMIc,BMI_Percentile,BMC_perecent_481,Patient_is_Overwiegh,Obesity_identified,Phy_Action,Physicians_Actions_other,Age10yrs,Diagnosis,Diagnosis_other
+Primary Care Center,Female,14,,83.0,,95+,,Yes,,, ,over 10 years-adolescents,Upper Respir,
+Primary Care Center,Female,13,,42.0,,5 to <85,,No,,, ,over 10 years-adolescents,Gastroenteri,
+Primary Care Center,Male,14,,46.1,,5 to <85,,No,,, ,over 10 years-adolescents,Other,Leg trauma
+Primary Care Center,Male,14,,67.0,,85 to <95,,Yes,,, ,over 10 years-adolescents,Gastroenteri,
+Primary Care Center,Female,13,156.0,49.0,20.134779,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Vertigo
+Primary Care Center,Male,7,110.0,17.2,14.214876,5 to <85,2.0,No,,, ,under 10years-children,Other,Chicken pox
+Primary Care Center,Female,6,133.0,22.0,12.437108,85 to <95,1.0,Yes,,, ,under 10years-children,Other,Impaired vision
+Primary Care Center,Male,9,,25.0,,5 to <85,,No,,, ,under 10years-children,Other,EBV infection
+Primary Care Center,Female,14,,57.0,,5 to <85,,No,,, ,over 10 years-adolescents,Upper Respir,
+Primary Care Center,Male,6,,17.6,,<5,,No,,, ,under 10years-children,Abdominal Pa,
+Primary Care Center,Female,14,146.0,50.0,23.456558,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Primary Care Center,Female,14,,46.0,,5 to <85,,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Primary Care Center,Female,12,132.0,29.0,16.64371,5 to <85,2.0,No,,, ,over 10 years-adolescents,Upper Respir,
+Primary Care Center,Female,7,111.0,18.4,14.933853,5 to <85,2.0,No,,, ,under 10years-children,Other,Hyperopia
+Primary Care Center,Female,8,120.0,22.4,15.555555,5 to <85,2.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Male,6,112.0,18.0,14.34949,5 to <85,2.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Female,6,101.0,15.0,14.704441,<5,1.0,No,,, ,under 10years-children,Bronchial As,
+Primary Care Center,Female,7,121.0,20.0,13.660269,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Primary Care Center,Male,11,148.0,55.8,25.474798,95+,4.0,Yes,No,, ,over 10 years-adolescents,Enuresis,
+Primary Care Center,Female,6,111.0,20.5,16.63826,5 to <85,2.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Female,10,127.0,24.7,15.314031,5 to <85,2.0,No,,, ,over 10 years-adolescents,Hypothyroidi,
+Primary Care Center,Male,7,124.0,25.0,16.259106,5 to <85,2.0,No,,, ,under 10years-children,Enuresis,
+Primary Care Center,Female,11,134.0,28.6,15.927824,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Growth problem
+Primary Care Center,Female,7,120.0,20.0,13.888889,5 to <85,2.0,No,,, ,under 10years-children,Hypothyroidi,
+Primary Care Center,Female,10,146.5,38.0,17.705505,5 to <85,2.0,No,,, ,over 10 years-adolescents,Enuresis,
+Primary Care Center,Male,10,129.5,28.0,16.696234,5 to <85,2.0,No,,, ,over 10 years-adolescents,Upper Respir,
+Primary Care Center,Female,8,118.5,20.0,14.242732,5 to <85,2.0,No,,, ,under 10years-children,Other,Chest pain
+Primary Care Center,Female,11,132.0,32.0,18.365473,5 to <85,2.0,No,,, ,over 10 years-adolescents,Upper Respir,
+Primary Care Center,Male,9,112.0,19.0,15.146684,<5,1.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Female,7,116.0,20.0,14.863258,5 to <85,2.0,No,,, ,under 10years-children,Urinary Trac,
+Primary Care Center,Female,7,120.0,19.5,13.541667,5 to <85,2.0,No,,, ,under 10years-children,Seizure,
+Primary Care Center,Male,8,133.0,28.0,15.829046,5 to <85,2.0,No,,, ,under 10years-children,Enuresis,
+Primary Care Center,Male,13,134.0,29.0,16.15059,<5,1.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Primary Care Center,Male,9,130.0,28.5,16.863905,5 to <85,2.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Male,10,,34.6,,5 to <85,,No,,, ,over 10 years-adolescents,Upper Respir,
+Primary Care Center,Male,12,,35.0,,5 to <85,,No,,, ,over 10 years-adolescents,Other,Nose bleeding
+Primary Care Center,Male,12,136.0,28.4,15.3546715,<5,1.0,No,,, ,over 10 years-adolescents,Headache,
+Primary Care Center,Male,8,121.0,25.6,17.485144,5 to <85,2.0,No,,, ,under 10years-children,Gastroenteri,
+Primary Care Center,Male,12,,36.0,,5 to <85,,No,,, ,over 10 years-adolescents,Other,Testecular swelling
+Primary Care Center,Male,11,148.0,27.6,12.600438,5 to <85,2.0,No,,, ,over 10 years-adolescents,Upper Respir,
+Primary Care Center,Female,13,,51.0,,5 to <85,,No,,, ,over 10 years-adolescents,Upper Respir,
+Primary Care Center,Female,6,,21.8,,5 to <85,,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Female,8,128.0,29.0,17.700195,5 to <85,2.0,No,,, ,under 10years-children,Otitis Media,
+Primary Care Center,Male,11,128.0,25.3,15.441895,<5,1.0,No,,, ,over 10 years-adolescents,Annual Check,
+Primary Care Center,Female,11,132.0,28.0,16.069788,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Breast discharge
+Primary Care Center,Female,6,114.0,18.4,14.158202,5 to <85,2.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Male,8,101.0,12.0,11.763553,<5,1.0,No,,, ,under 10years-children,Abdominal Pa,
+Primary Care Center,Male,9,127.0,22.0,13.640027,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Primary Care Center,Female,9,125.0,25.0,16.0,5 to <85,2.0,No,,, ,under 10years-children,Other,Teeth pain
+Primary Care Center,Female,10,131.0,25.4,14.8010025,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Hearing loss
+Primary Care Center,Female,9,138.0,44.5,23.36694,95+,4.0,Yes,No,, ,under 10years-children,Other,Rectal bleeding
+Primary Care Center,Female,7,113.0,16.5,12.92192,5 to <85,2.0,No,,, ,under 10years-children,Other,Nose bleeding
+Primary Care Center,Male,7,134.0,26.0,14.479839,85 to <95,2.0,Yes,,, ,under 10years-children,Other,Low IQ
+Primary Care Center,Male,6,116.5,19.7,14.514911,5 to <85,2.0,No,,, ,under 10years-children,Otitis Media,
+Primary Care Center,Male,12,166.0,55.0,19.959356,95+,2.0,Yes,,, ,over 10 years-adolescents,Otitis Media,
+Primary Care Center,Female,12,137.0,29.0,15.45101,5 to <85,2.0,No,,, ,over 10 years-adolescents,Otitis Media,
+Primary Care Center,Male,13,137.0,44.0,23.442911,5 to <85,2.0,No,,, ,over 10 years-adolescents,Upper Respir,
+Primary Care Center,Male,12,132.0,32.8,18.82461,5 to <85,2.0,No,,, ,over 10 years-adolescents,Down's Syndr,
+Primary Care Center,Male,8,130.0,28.5,16.863905,5 to <85,2.0,No,,, ,under 10years-children,Enuresis,
+Primary Care Center,Male,7,114.0,18.9,14.542936,<5,1.0,No,,, ,under 10years-children,Other,GERD
+Primary Care Center,Male,6,105.0,18.2,16.507936,5 to <85,2.0,No,,, ,under 10years-children,Constipation,
+Primary Care Center,Female,10,120.0,22.0,15.277778,<5,1.0,No,,, ,over 10 years-adolescents,Urinary Trac,
+Primary Care Center,Male,7,121.0,20.4,13.933475,5 to <85,2.0,No,,, ,under 10years-children,Bronchial As,
+Primary Care Center,Female,10,135.0,31.5,17.28395,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Primary Care Center,Male,12,100.0,16.1,16.1,<5,1.0,No,,, ,over 10 years-adolescents,Other,Loss of appetite
+Primary Care Center,Male,8,119.0,20.0,14.123297,<5,1.0,No,,, ,under 10years-children,Bronchial As,
+Primary Care Center,Female,11,148.0,33.0,15.065742,5 to <85,2.0,No,,, ,over 10 years-adolescents,Bronchial As,
+Primary Care Center,Female,7,105.0,14.5,13.151927,<5,1.0,No,,, ,under 10years-children,Annual Check,
+Primary Care Center,Female,6,104.0,18.0,16.642012,5 to <85,2.0,No,,, ,under 10years-children,Annual Check,
+Primary Care Center,Male,6,105.0,15.0,13.605442,<5,1.0,No,,, ,under 10years-children,Other,G6PD Deficiency
+Primary Care Center,Female,6,104.0,12.9,11.926775,<5,1.0,No,,, ,under 10years-children,Other,Dietitian referral
+Primary Care Center,Female,10,133.0,27.0,15.263723,5 to <85,2.0,No,,, ,over 10 years-adolescents,Developmenta,
+Primary Care Center,Male,7,110.0,17.5,14.46281,<5,1.0,No,,, ,under 10years-children,Constipation,
+Primary Care Center,Female,8,115.0,18.0,13.610586,5 to <85,2.0,No,,, ,under 10years-children,Other,Growth problem
+Primary Care Center,Female,8,117.0,19.3,14.098911,5 to <85,2.0,No,,, ,under 10years-children,Other,Growth problem
+Primary Care Center,Male,10,127.0,22.5,13.950027,<5,1.0,No,,, ,over 10 years-adolescents,Enuresis,
+Primary Care Center,Female,6,105.0,14.0,12.698413,<5,1.0,No,,, ,under 10years-children,Annual Check,
+Primary Care Center,Male,9,131.0,31.0,18.064215,5 to <85,2.0,No,,, ,under 10years-children,Gastroenteri,
+Primary Care Center,Male,8,117.0,23.0,16.801811,5 to <85,2.0,No,,, ,under 10years-children,Constipation,
+Primary Care Center,Female,11,159.0,52.0,20.568806,85 to <95,2.0,Yes,,, ,over 10 years-adolescents,Other,Dandruff
+Primary Care Center,Male,7,109.0,18.0,15.15024,5 to <85,2.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Female,14,,44.0,,<5,,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Primary Care Center,Female,9,131.0,34.0,19.812365,5 to <85,2.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Female,14,,39.6,,5 to <85,,No,,, ,over 10 years-adolescents,Other,Rash
+Primary Care Center,Female,10,126.0,27.0,17.006804,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Primary Care Center,Female,10,126.0,21.4,13.4794655,5 to <85,2.0,No,,, ,over 10 years-adolescents,Headache,
+Primary Care Center,Female,6,121.0,31.2,21.31002,95+,4.0,Yes,No,, ,under 10years-children,Upper Respir,
+Primary Care Center,Male,9,127.0,21.8,13.516027,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Primary Care Center,Male,6,109.5,19.8,16.513416,5 to <85,2.0,No,,, ,under 10years-children,Other,Nose bleeding
+Primary Care Center,Female,10,128.0,23.0,14.038086,<5,1.0,No,,, ,over 10 years-adolescents,Upper Respir,
+Primary Care Center,Female,14,,45.8,,5 to <85,,No,,, ,over 10 years-adolescents,Other,Anemia
+Primary Care Center,Female,6,119.0,21.6,15.25316,5 to <85,2.0,No,,, ,under 10years-children,Vaccination,
+Primary Care Center,Female,10,136.0,42.0,22.707613,85 to <95,3.0,Yes,No,, ,over 10 years-adolescents,Other,Foreign body rt foot
+Primary Care Center,Female,6,,17.0,,5 to <85,,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Female,9,136.0,53.0,28.654844,95+,4.0,Yes,Yes,Referral to Other, ,under 10years-children,Annual Check,
+Primary Care Center,Female,13,139.0,27.0,13.974432,<5,1.0,No,,, ,over 10 years-adolescents,Hypothyroidi,
+Primary Care Center,Male,8,126.0,29.3,18.45553,5 to <85,2.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Male,12,,29.0,,<5,,No,,, ,over 10 years-adolescents,Upper Respir,
+Primary Care Center,Male,13,,50.0,,5 to <85,,No,,, ,over 10 years-adolescents,Upper Respir,
+Primary Care Center,Male,6,112.0,15.0,11.957909,5 to <85,2.0,No,,, ,under 10years-children,Vaccination,
+Primary Care Center,Female,9,,24.0,,5 to <85,,No,,, ,under 10years-children,Constipation,
+Primary Care Center,Male,11,140.0,33.4,17.040817,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Teeth ache
+Primary Care Center,Female,9,,23.5,,5 to <85,,No,,, ,under 10years-children,Other,Allergic conjunctivitis
+Primary Care Center,Male,8,,28.8,,5 to <85,,No,,, ,under 10years-children,Other,Nose bleeding
+Primary Care Center,Male,10,133.0,23.0,13.002431,<5,1.0,No,,, ,over 10 years-adolescents,Other,Rash
+Primary Care Center,Female,6,111.0,19.0,15.420826,5 to <85,2.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Female,9,127.0,27.0,16.740034,5 to <85,2.0,No,,, ,under 10years-children,Other,Hearing loss
+Primary Care Center,Female,6,116.0,24.0,17.835909,85 to <95,3.0,Yes,No,, ,under 10years-children,Urinary Trac,
+Primary Care Center,Male,11,141.0,52.0,26.155626,85 to <95,3.0,Yes,No,, ,over 10 years-adolescents,Upper Respir,
+Primary Care Center,Male,10,138.0,29.0,15.227893,5 to <85,2.0,No,,, ,over 10 years-adolescents,Annual Check,
+Primary Care Center,Male,6,112.0,20.0,15.943877,5 to <85,2.0,No,,, ,under 10years-children,Other,Eye discharge
+Primary Care Center,Female,7,,19.0,,5 to <85,,No,,, ,under 10years-children,Other,Low appetite
+Primary Care Center,Female,6,121.0,23.4,15.982514,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Primary Care Center,Female,7,,17.0,,<5,,No,,, ,under 10years-children,Other,Nose bleeding
+Primary Care Center,Male,14,146.5,32.0,14.9099,5 to <85,2.0,No,,, ,over 10 years-adolescents,Upper Respir,
+Primary Care Center,Male,12,,68.4,,95+,,Yes,,, ,over 10 years-adolescents,Enuresis,
+Primary Care Center,Female,6,118.0,19.9,14.29187,5 to <85,2.0,No,,, ,under 10years-children,Other,Nose bleeding
+Primary Care Center,Male,12,130.0,24.0,14.201183,<5,1.0,No,,, ,over 10 years-adolescents,Upper Respir,
+Primary Care Center,Male,8,121.0,20.0,13.660269,5 to <85,2.0,No,,, ,under 10years-children,Other,Wound
+Primary Care Center,Male,14,,30.0,,<5,,No,,, ,over 10 years-adolescents,Other,Wound
+Primary Care Center,Male,7,123.0,18.0,11.89768,5 to <85,2.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Female,7,119.0,15.0,10.592472,<5,1.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Female,11,133.0,31.0,17.525015,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Corneal abrasion
+Primary Care Center,Female,10,129.0,24.0,14.42221,5 to <85,2.0,No,,, ,over 10 years-adolescents,Constipation,
+Primary Care Center,Female,7,107.0,17.0,14.848458,5 to <85,2.0,No,,, ,under 10years-children,Developmenta,
+Primary Care Center,Male,14,,35.0,,<5,,No,,, ,over 10 years-adolescents,Headache,
+Primary Care Center,Male,8,116.0,22.5,16.721165,5 to <85,2.0,No,,, ,under 10years-children,Bronchial As,
+Primary Care Center,Male,12,158.0,62.4,24.995995,95+,4.0,Yes,No,, ,over 10 years-adolescents,Upper Respir,
+Primary Care Center,Male,13,,68.0,,95+,,Yes,,, ,over 10 years-adolescents,Upper Respir,
+Primary Care Center,Male,6,124.0,22.6,14.698231,85 to <95,3.0,Yes,No,, ,under 10years-children,Other,Eczema
+Primary Care Center,Female,6,116.0,24.0,17.835909,85 to <95,3.0,Yes,No,, ,under 10years-children,Urinary Trac,
+Primary Care Center,Male,12,,30.0,,5 to <85,,No,,, ,over 10 years-adolescents,Upper Respir,
+Primary Care Center,Male,12,,31.6,,5 to <85,,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Primary Care Center,Female,12,137.0,31.0,16.516596,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Leg pain
+Primary Care Center,Male,7,119.0,19.0,13.417131,5 to <85,2.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Male,14,,64.0,,85 to <95,,Yes,,, ,over 10 years-adolescents,Other,Hand swelling
+Primary Care Center,Male,14,,55.7,,85 to <95,,Yes,,, ,over 10 years-adolescents,Other,Both legs pain
+Primary Care Center,Male,13,146.0,30.0,14.0739355,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Primary Care Center,Female,7,102.0,13.0,12.495194,<5,1.0,No,,, ,under 10years-children,Other,Growth problem
+Primary Care Center,Male,10,139.0,35.6,18.425547,5 to <85,2.0,No,,, ,over 10 years-adolescents,Otitis Media,
+Primary Care Center,Female,8,135.0,26.4,14.485597,5 to <85,2.0,No,,, ,under 10years-children,Other,Snoring
+Primary Care Center,Male,11,135.0,37.4,20.521261,5 to <85,2.0,No,,, ,over 10 years-adolescents,Upper Respir,
+Primary Care Center,Male,9,124.0,27.7,18.015089,5 to <85,2.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Male,10,141.0,31.6,15.894572,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Allergic conjunctivitis
+Primary Care Center,Female,9,126.0,22.2,13.983371,5 to <85,2.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Male,6,117.5,20.3,14.7034855,5 to <85,2.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Male,6,106.0,15.6,13.8839445,<5,1.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Female,6,112.0,21.0,16.741072,5 to <85,2.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Female,8,128.0,26.8,16.357422,5 to <85,2.0,No,,, ,under 10years-children,Other,Shoulder pain
+Primary Care Center,Male,13,145.0,38.0,18.07372,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Leg pain
+Primary Care Center,Male,7,,26.0,,85 to <95,,Yes,,, ,under 10years-children,Vaccination,
+Primary Care Center,Male,12,,36.3,,5 to <85,,No,,, ,over 10 years-adolescents,Upper Respir,
+Primary Care Center,Male,12,,53.0,,85 to <95,,Yes,,, ,over 10 years-adolescents,Other,Leg ulcer
+Primary Care Center,Male,12,148.0,34.9,15.933163,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Allergy
+Primary Care Center,Male,10,139.0,43.7,22.617876,85 to <95,3.0,Yes,No,, ,over 10 years-adolescents,Other,Dermatitis
+Primary Care Center,Male,13,,85.0,,95+,,Yes,,, ,over 10 years-adolescents,Other,Snoring
+Primary Care Center,Male,6,113.0,18.7,14.644843,5 to <85,2.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Male,12,142.0,33.0,16.3658,5 to <85,2.0,No,,, ,over 10 years-adolescents,Upper Respir,
+Primary Care Center,Male,9,150.0,39.0,17.333334,5 to <85,2.0,No,,, ,under 10years-children,Headache,
+Primary Care Center,Male,14,,44.5,,5 to <85,,No,,, ,over 10 years-adolescents,Bronchial As,
+Primary Care Center,Male,11,142.0,60.0,29.756,95+,4.0,Yes,Yes,Nutritional Advice, ,over 10 years-adolescents,Other,Dermatitis
+Primary Care Center,Male,10,135.0,35.1,19.25926,5 to <85,2.0,No,,, ,over 10 years-adolescents,Upper Respir,
+Primary Care Center,Male,13,,55.2,,5 to <85,,No,,, ,over 10 years-adolescents,Other,Wound care
+Primary Care Center,Male,13,137.0,26.9,14.332144,<5,1.0,No,,, ,over 10 years-adolescents,Upper Respir,
+Primary Care Center,Male,12,153.0,64.0,27.339912,95+,4.0,Yes,No,, ,over 10 years-adolescents,Hypothyroidi,
+Primary Care Center,Female,6,118.0,18.0,12.92732,5 to <85,2.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Female,14,142.0,32.0,15.869867,5 to <85,2.0,No,,, ,over 10 years-adolescents,Annual Check,
+Primary Care Center,Male,13,146.0,30.0,14.0739355,<5,1.0,No,,, ,over 10 years-adolescents,Other,Anemia
+Primary Care Center,Female,11,144.0,34.0,16.396605,5 to <85,2.0,No,,, ,over 10 years-adolescents,Urinary Trac,
+Primary Care Center,Male,9,111.0,18.0,14.609203,<5,1.0,No,,, ,under 10years-children,Other,Pubertal delay
+Primary Care Center,Male,10,129.0,25.0,15.023135,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Low appetite
+Primary Care Center,Male,9,127.0,22.0,13.640027,<5,1.0,No,,, ,under 10years-children,Gastroenteri,
+Primary Care Center,Female,6,121.0,27.0,18.441362,95+,4.0,Yes,No,, ,under 10years-children,Upper Respir,
+Primary Care Center,Male,9,132.0,29.0,16.64371,5 to <85,2.0,No,,, ,under 10years-children,Annual Check,
+Primary Care Center,Female,6,104.0,15.9,14.700444,<5,1.0,No,,, ,under 10years-children,Other,Low appetite
+Primary Care Center,Male,6,110.0,17.3,14.297521,5 to <85,2.0,No,,, ,under 10years-children,Annual Check,
+Primary Care Center,Female,9,125.0,21.0,13.44,<5,1.0,No,,, ,under 10years-children,Other,ADHD
+Primary Care Center,Female,7,109.0,23.8,20.031984,5 to <85,2.0,No,,, ,under 10years-children,Seizure,
+Primary Care Center,Female,8,125.0,25.8,16.512,5 to <85,2.0,No,,, ,under 10years-children,Diabetes,DKA
+Primary Care Center,Female,12,156.0,59.0,24.24392,95+,4.0,Yes,No,, ,over 10 years-adolescents,Other,Shoulder pain
+Primary Care Center,Male,11,132.0,27.0,15.495868,5 to <85,2.0,No,,, ,over 10 years-adolescents,Annual Check,
+Primary Care Center,Male,13,145.0,30.0,14.268727,<5,1.0,No,,, ,over 10 years-adolescents,Other,Thin bone
+Primary Care Center,Male,8,125.0,24.0,15.36,5 to <85,2.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Male,9,131.0,59.0,34.38028,95+,4.0,Yes,Yes,Laboratory Test / Follow-up, ,under 10years-children,Diabetes,
+Primary Care Center,Female,6,113.0,16.2,12.686976,<5,1.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Male,6,99.0,14.7,14.998469,<5,1.0,No,,, ,under 10years-children,Annual Check,
+Primary Care Center,Female,9,129.0,45.0,27.041645,95+,4.0,Yes,No,, ,under 10years-children,Urinary Trac,
+Primary Care Center,Female,11,137.0,42.0,22.377325,85 to <95,3.0,Yes,No,, ,over 10 years-adolescents,Upper Respir,
+Primary Care Center,Male,6,121.5,25.4,17.206049,85 to <95,3.0,Yes,No,, ,under 10years-children,Other,Neck pain
+Primary Care Center,Female,8,,20.0,,<5,,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Female,10,126.0,17.0,10.707987,<5,1.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Primary Care Center,Female,6,113.0,18.2,14.253269,5 to <85,2.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Male,8,,26.0,,5 to <85,,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Male,14,143.0,44.0,21.516945,5 to <85,2.0,No,,, ,over 10 years-adolescents,Annual Check,
+Primary Care Center,Male,10,133.0,31.0,17.525015,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Primary Care Center,Male,6,117.0,22.6,16.509605,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Primary Care Center,Female,11,,38.0,,5 to <85,,No,,, ,over 10 years-adolescents,Medication r,
+Primary Care Center,Male,11,,31.0,,5 to <85,,No,,, ,over 10 years-adolescents,Upper Respir,
+Primary Care Center,Female,7,118.0,19.0,13.645504,5 to <85,2.0,No,,, ,under 10years-children,Other,Otitis media
+Primary Care Center,Male,14,,61.5,,5 to <85,,No,,, ,over 10 years-adolescents,Upper Respir,
+Primary Care Center,Female,9,128.0,31.7,19.348145,5 to <85,2.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Male,8,137.0,29.5,15.717406,5 to <85,2.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Male,13,145.0,35.4,16.8371,5 to <85,2.0,No,,, ,over 10 years-adolescents,Vitamin D De,
+Primary Care Center,Male,13,,37.0,,5 to <85,,No,,, ,over 10 years-adolescents,Annual Check,
+Primary Care Center,Male,6,112.0,18.0,14.34949,5 to <85,2.0,No,,, ,under 10years-children,Gastroenteri,
+Primary Care Center,Male,6,126.0,29.5,18.581507,95+,4.0,Yes,No,, ,under 10years-children,Upper Respir,
+Primary Care Center,Female,9,,43.9,,95+,,Yes,,, ,under 10years-children,Other,Rash
+Primary Care Center,Male,14,152.0,48.3,20.905472,5 to <85,2.0,No,,, ,over 10 years-adolescents,Headache,
+Primary Care Center,Male,9,126.0,20.0,12.597631,<5,1.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Female,10,135.0,31.0,17.009602,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Primary Care Center,Female,7,116.0,18.7,13.897146,<5,1.0,No,,, ,under 10years-children,Abdominal Pa,
+Primary Care Center,Male,8,127.0,22.8,14.136028,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Primary Care Center,Female,6,126.0,27.3,17.195766,95+,4.0,Yes,No,, ,under 10years-children,Upper Respir,
+Primary Care Center,Female,12,,59.4,,85 to <95,,Yes,,, ,over 10 years-adolescents,Upper Respir,
+Primary Care Center,Male,6,112.0,19.5,15.54528,5 to <85,2.0,No,,, ,under 10years-children,Other,Otitis media
+Primary Care Center,Male,10,,37.6,,5 to <85,,No,,, ,over 10 years-adolescents,Headache,
+Primary Care Center,Male,8,,31.0,,85 to <95,,Yes,,, ,under 10years-children,Abdominal Pa,
+Primary Care Center,Female,9,132.0,32.0,18.365473,5 to <85,2.0,No,,, ,under 10years-children,Annual Check,
+Primary Care Center,Female,14,149.7,45.7,20.3926,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Left flank pain
+Primary Care Center,Female,7,114.0,22.8,17.54386,5 to <85,2.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Male,8,,14.6,,<5,,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Female,6,121.0,25.0,17.075336,85 to <95,3.0,Yes,No,, ,under 10years-children,Upper Respir,
+Primary Care Center,Female,9,127.0,29.0,17.980036,5 to <85,2.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Male,6,124.0,18.0,11.706555,5 to <85,2.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Male,8,,38.6,,85 to <95,,Yes,,, ,under 10years-children,Gastroenteri,
+Primary Care Center,Female,13,,38.0,,5 to <85,,No,,, ,over 10 years-adolescents,Upper Respir,
+Primary Care Center,Female,12,156.0,85.0,34.92768,95+,4.0,Yes,No,, ,over 10 years-adolescents,Upper Respir,
+Primary Care Center,Male,10,130.0,35.8,21.183432,5 to <85,2.0,No,,, ,over 10 years-adolescents,Upper Respir,
+Primary Care Center,Male,9,125.0,28.8,18.432,5 to <85,2.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Female,14,,46.0,,85 to <95,,Yes,,, ,over 10 years-adolescents,Upper Respir,
+Primary Care Center,Male,13,134.0,34.0,18.935175,5 to <85,2.0,No,,, ,over 10 years-adolescents,Headache,
+Primary Care Center,Female,14,,41.5,,5 to <85,,No,,, ,over 10 years-adolescents,Annual Check,
+Primary Care Center,Female,8,,23.0,,5 to <85,,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Female,13,,43.5,,5 to <85,,No,,, ,over 10 years-adolescents,Upper Respir,
+Primary Care Center,Female,13,,52.0,,5 to <85,,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Primary Care Center,Female,6,110.0,17.4,14.380165,5 to <85,2.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Male,7,114.0,19.0,14.619883,5 to <85,2.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Female,7,122.0,22.5,15.116904,5 to <85,2.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Female,8,123.0,21.6,14.277216,5 to <85,2.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Female,6,114.0,18.7,14.389043,5 to <85,2.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Male,6,117.0,19.0,13.879758,5 to <85,2.0,No,,, ,under 10years-children,Other,Eye pain
+Primary Care Center,Female,8,138.0,40.7,21.371561,95+,4.0,Yes,No,, ,under 10years-children,Abdominal Pa,
+Primary Care Center,Female,8,120.0,21.3,14.791667,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Primary Care Center,Female,9,,23.8,,5 to <85,,No,,, ,under 10years-children,Headache,
+Primary Care Center,Male,13,,71.0,,95+,,Yes,,, ,over 10 years-adolescents,Abdominal Pa,
+Primary Care Center,Female,6,,23.3,,5 to <85,,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Female,7,106.0,16.4,14.595942,5 to <85,2.0,No,,, ,under 10years-children,Other,Leg pain
+Primary Care Center,Male,8,128.0,28.7,17.51709,5 to <85,2.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Male,10,152.0,43.4,18.784626,85 to <95,3.0,Yes,No,, ,over 10 years-adolescents,Other,Eczema
+Primary Care Center,Female,9,134.0,31.5,17.542883,5 to <85,2.0,No,,, ,under 10years-children,Other,Stool incontenence
+Primary Care Center,Male,7,121.0,20.0,13.660269,5 to <85,2.0,No,,, ,under 10years-children,Otitis Media,
+Primary Care Center,Male,9,134.0,25.0,13.922923,5 to <85,2.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Male,11,130.0,23.0,13.6094675,5 to <85,2.0,No,,, ,over 10 years-adolescents,Headache,
+Primary Care Center,Female,11,144.0,43.0,20.736883,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Eye pain
+Primary Care Center,Male,14,141.0,31.0,15.592777,5 to <85,2.0,No,,, ,over 10 years-adolescents,Annual Check,
+Primary Care Center,Female,9,,46.4,,95+,,Yes,,, ,under 10years-children,Other,Visual disturbance
+Primary Care Center,Male,7,121.5,19.0,12.8706665,5 to <85,2.0,No,,, ,under 10years-children,Bronchial As,
+Primary Care Center,Female,6,125.0,31.0,19.84,95+,4.0,Yes,No,, ,under 10years-children,Upper Respir,
+Primary Care Center,Male,9,143.0,35.5,17.360262,85 to <95,3.0,Yes,No,, ,under 10years-children,Other,Scoliosis
+Primary Care Center,Female,13,,65.0,,85 to <95,,Yes,,, ,over 10 years-adolescents,Urinary Trac,
+Primary Care Center,Male,8,133.0,46.4,26.230991,95+,4.0,Yes,No,, ,under 10years-children,Bronchial As,
+Primary Care Center,Male,13,,45.0,,5 to <85,,No,,, ,over 10 years-adolescents,Otitis Media,
+Primary Care Center,Male,8,127.0,21.5,13.330027,,1.0,No,,, ,under 10years-children,Other,G6PD Deficiency
+Primary Care Center,Female,7,127.0,26.7,16.554033,5 to <85,2.0,No,,, ,under 10years-children,Enuresis,
+Primary Care Center,Male,13,140.0,34.0,17.34694,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Eczema
+Primary Care Center,Female,11,141.0,41.7,20.9748,5 to <85,2.0,No,,, ,over 10 years-adolescents,Upper Respir,
+Primary Care Center,Female,7,126.0,23.0,14.487276,5 to <85,2.0,No,,, ,under 10years-children,Other,Adenoids hypertrophy
+Primary Care Center,Male,11,132.0,31.0,17.791552,85 to <95,3.0,Yes,No,, ,over 10 years-adolescents,Constipation,
+Primary Care Center,Male,6,,22.0,,5 to <85,,No,,, ,under 10years-children,Constipation,
+Primary Care Center,Female,13,156.0,66.0,27.120316,95+,4.0,Yes,No,, ,over 10 years-adolescents,Upper Respir,
+Primary Care Center,Female,6,120.0,27.0,18.75,95+,4.0,Yes,No,, ,under 10years-children,Hypothyroidi,
+Primary Care Center,Male,11,145.0,41.0,19.500595,5 to <85,2.0,No,,, ,over 10 years-adolescents,Headache,
+Primary Care Center,Male,6,122.0,20.0,13.437248,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Primary Care Center,Female,8,136.0,23.0,12.435122,5 to <85,2.0,No,,, ,under 10years-children,Upper Respir,
+Primary Care Center,Female,13,,45.8,,5 to <85,,No,,, ,over 10 years-adolescents,Constipation,
+Primary Care Center,Male,13,133.0,30.5,17.242353,,2.0,No,,, ,over 10 years-adolescents,Upper Respir,
+Primary Care Center,Male,11,134.0,26.0,14.479839,,2.0,No,,, ,over 10 years-adolescents,Vitamin D De,
+Pediatrics Clinic,Female,14,,22.7,,<5,,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,11,,29.3,,5 to <85,,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,8,128.2,20.6,12.534042,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,11,152.4,52.9,22.776434,95+,4.0,Yes,Yes,Documented only,Just documented,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,7,120.0,24.2,16.805555,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,8,119.5,26.4,18.487072,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,11,136.0,35.6,19.247404,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,10,126.7,22.2,13.829286,<5,1.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,8,131.0,41.0,23.891382,95+,4.0,Yes,Yes,Documented only,Documented only,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,10,137.0,42.8,22.803558,95+,4.0,Yes,Yes,Refer to Dietician, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,11,154.0,41.7,17.583067,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,6,122.0,21.1,14.176296,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,12,143.0,66.2,32.373222,95+,4.0,Yes,No,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,11,138.0,25.9,13.600084,<5,1.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,13,167.0,79.0,28.32658,95+,4.0,Yes,No,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,12,140.0,44.0,22.44898,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,13,156.0,50.0,20.545694,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,13,144.0,31.5,15.190972,<5,1.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,9,119.0,23.4,16.524258,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,13,156.0,46.2,18.98422,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,7,120.5,19.5,13.429521,85 to <95,1.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,7,115.0,22.9,17.31569,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,10,143.0,48.3,23.619738,85 to <95,3.0,Yes,No,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,8,125.0,26.0,16.64,5 to <85,2.0,No,,, ,under 10years-children,Other,Thalasemic trait
+Pediatrics Clinic,Female,8,125.5,26.5,16.82513,5 to <85,2.0,No,,, ,under 10years-children,Other,Thalasemia
+Pediatrics Clinic,Male,8,119.5,23.5,16.456295,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,8,130.0,21.0,12.426036,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,9,129.0,23.2,13.94147,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,13,143.0,35.5,17.360262,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,12,149.5,49.9,22.326372,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Back pain
+Pediatrics Clinic,Female,12,133.0,26.9,15.2071905,<5,1.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,12,155.0,46.6,19.396461,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Foot deformity
+Pediatrics Clinic,Male,12,156.0,51.1,20.9977,85 to <95,3.0,Yes,No,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,6,123.0,29.5,19.498976,95+,4.0,Yes,No,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,11,140.5,32.0,16.210535,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,8,134.0,39.0,21.719759,95+,4.0,Yes,No,, ,under 10years-children,Other,Hydronephrosis
+Pediatrics Clinic,Male,11,140.5,32.2,16.31185,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,11,134.0,26.4,14.702606,<5,1.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,9,131.0,26.6,15.500262,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,7,126.0,24.2,15.2431345,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,8,126.5,22.3,13.93554,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,12,151.5,52.6,22.917143,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,8,126.3,29.4,18.430649,5 to <85,2.0,No,,, ,under 10years-children,Other,Spina bifida
+Pediatrics Clinic,Female,14,155.5,56.6,23.407534,85 to <95,3.0,Yes,No,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,14,161.5,58.7,22.505728,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,13,145.0,27.3,12.984542,<5,1.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,6,119.0,25.7,18.148436,85 to <95,3.0,Yes,No,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,12,149.5,45.7,20.447199,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Osteogenises imperfecta
+Pediatrics Clinic,Male,11,147.0,52.1,24.110325,95+,4.0,Yes,Yes,Nutritional Advice, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,6,116.5,21.7,15.988506,5 to <85,2.0,No,,, ,under 10years-children,Other,Vision problem
+Pediatrics Clinic,Female,14,153.0,47.0,20.077747,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,6,122.0,21.9,14.713787,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,14,167.0,48.0,17.211086,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,11,137.0,29.0,15.45101,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,6,102.0,14.7,14.129181,<5,1.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,12,149.0,29.5,13.28769,<5,1.0,No,,, ,over 10 years-adolescents,Other,Gilbert disease
+Pediatrics Clinic,Female,11,138.5,55.6,28.98513,95+,4.0,Yes,No,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,11,130.0,33.4,19.763313,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Collagene storage disease
+Pediatrics Clinic,Male,8,123.0,22.0,14.541609,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,9,129.0,27.6,16.585543,5 to <85,2.0,No,,, ,under 10years-children,Other,Iron deficiency anemia
+Pediatrics Clinic,Female,10,133.0,26.2,14.811464,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Infectious mononeuclousis
+Pediatrics Clinic,Male,14,164.0,84.0,31.23141,95+,4.0,Yes,Yes,Refer to Dietician, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,8,129.0,27.8,16.705727,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,8,124.5,20.7,13.354623,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,11,156.0,84.0,34.516766,95+,4.0,Yes,Yes,Refer to Dietician, ,over 10 years-adolescents,Other,Hep A
+Pediatrics Clinic,Female,12,148.0,40.0,18.261505,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Reaching symptoms
+Pediatrics Clinic,Male,10,141.5,28.9,14.433942,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Eczema
+Pediatrics Clinic,Male,7,126.0,28.0,17.636684,85 to <95,3.0,Yes,No,, ,under 10years-children,Other,Vur
+Pediatrics Clinic,Female,13,147.0,64.8,29.987505,85 to <95,3.0,Yes,Yes,Refer to Dietician, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,9,137.0,42.0,22.377325,95+,4.0,Yes,No,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,9,143.5,41.6,20.201775,95+,4.0,Yes,No,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,9,125.0,20.2,12.928,<5,1.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,9,145.0,38.2,18.168846,85 to <95,3.0,Yes,No,, ,under 10years-children,Other,Rickets
+Pediatrics Clinic,Female,10,134.0,33.2,18.489641,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,7,114.5,17.2,13.119506,<5,1.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,6,125.5,24.5,15.555308,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,8,137.0,29.9,15.930524,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,12,144.5,33.9,16.235437,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Gerd
+Pediatrics Clinic,Female,14,138.5,34.7,18.08964,<5,1.0,No,,, ,over 10 years-adolescents,Other,Short stature
+Pediatrics Clinic,Female,14,148.5,39.9,18.093391,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Anemia
+Pediatrics Clinic,Male,12,150.0,49.5,22.0,85 to <95,3.0,Yes,No,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,13,158.0,43.0,17.224804,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,7,121.0,19.5,13.318763,5 to <85,2.0,No,,, ,under 10years-children,Other,Abscess
+Pediatrics Clinic,Female,10,118.5,19.5,13.886663,<5,1.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,11,145.0,31.4,14.934602,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Gerd
+Pediatrics Clinic,Female,10,132.0,53.7,30.81956,95+,4.0,Yes,Yes,Documented only,Just documented,over 10 years-adolescents,Other,Nephrotic syndrome
+Pediatrics Clinic,Female,9,147.0,46.6,21.565088,95+,4.0,Yes,No,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,10,129.5,28.5,16.994379,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,14,163.0,38.2,14.377658,<5,1.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,9,132.5,28.8,16.404415,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,14,154.5,48.1,20.150606,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,11,139.0,48.4,25.050463,85 to <95,3.0,Yes,No,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,10,142.0,31.4,15.572307,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,7,108.5,14.7,12.486993,<5,1.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,11,150.0,25.3,11.244445,<5,1.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,11,143.5,30.8,14.957084,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,8,125.0,25.4,16.256,85 to <95,3.0,Yes,No,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,6,117.6,19.7,14.244643,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,6,102.5,18.1,17.22784,5 to <85,2.0,No,,, ,under 10years-children,Other,Hearing defect
+Pediatrics Clinic,Male,8,122.0,30.9,20.760548,85 to <95,3.0,Yes,No,, ,under 10years-children,Other,Bardet?Biedl syndrome
+Pediatrics Clinic,Female,11,135.5,28.0,15.250337,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,7,129.0,27.2,16.345171,85 to <95,3.0,Yes,No,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,13,,33.0,,<5,,No,,, ,over 10 years-adolescents,Other,Lesch nyhan syndrome
+Pediatrics Clinic,Male,10,124.5,23.2,14.967501,<5,1.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,13,153.0,74.6,31.868086,95+,4.0,Yes,No,, ,over 10 years-adolescents,Other,Joint pain
+Pediatrics Clinic,Male,11,142.0,38.2,18.944654,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Hearing problem
+Pediatrics Clinic,Female,10,145.0,68.9,32.77051,95+,4.0,Yes,No,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,8,121.0,23.1,15.777611,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,9,130.5,29.1,17.087242,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,6,108.0,15.0,12.860083,<5,1.0,No,,, ,under 10years-children,Other,Cleft palate
+Pediatrics Clinic,Female,7,125.5,20.0,12.698211,<5,1.0,No,,, ,under 10years-children,Other,Low weight gain
+Pediatrics Clinic,Male,6,116.0,18.7,13.897146,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,10,145.0,29.3,13.935791,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,8,138.0,30.7,16.120564,85 to <95,3.0,Yes,No,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,9,137.0,37.3,19.873196,85 to <95,3.0,Yes,No,, ,under 10years-children,Other,Adhd
+Pediatrics Clinic,Male,8,123.6,20.5,13.4189005,<5,1.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,6,108.0,16.7,14.317558,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,13,164.0,69.3,25.765913,95+,4.0,Yes,Yes,Refer to Dietician, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,10,140.0,36.0,18.367348,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,7,113.5,22.7,17.621145,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,11,139.0,36.1,18.684334,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Adenoid hypertrophy
+Pediatrics Clinic,Male,6,120.0,23.6,16.38889,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,7,120.5,19.9,13.704998,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,11,133.4,23.6,13.261735,<5,1.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,9,138.0,40.0,21.00399,95+,4.0,Yes,No,, ,under 10years-children,Other,Hematuria
+Pediatrics Clinic,Male,12,137.0,34.3,18.274815,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Ramon syndrome
+Pediatrics Clinic,Female,9,123.5,24.2,15.866511,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,9,127.0,22.8,14.136028,5 to <85,2.0,No,,, ,under 10years-children,Other,Anaroxia
+Pediatrics Clinic,Male,11,150.5,57.3,25.297733,95+,4.0,Yes,No,, ,over 10 years-adolescents,Other,Anaphylactic allergy
+Pediatrics Clinic,Female,7,117.0,19.4,14.171963,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,11,128.0,27.4,16.723633,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,12,124.0,25.9,16.844433,<5,1.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,7,122.0,25.3,16.99812,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,11,152.5,62.0,26.6595,95+,4.0,Yes,No,, ,over 10 years-adolescents,Other,Allergic rhinitis
+Pediatrics Clinic,Male,8,126.0,28.7,18.0776,5 to <85,2.0,No,,, ,under 10years-children,Other,Adhd
+Pediatrics Clinic,Female,11,133.0,27.9,15.772514,<5,1.0,No,,, ,over 10 years-adolescents,Other,Lueckemia
+Pediatrics Clinic,Male,6,116.6,21.0,15.446219,5 to <85,2.0,No,,, ,under 10years-children,Other,Vision problem
+Pediatrics Clinic,Male,7,128.0,28.5,17.39502,5 to <85,2.0,No,,, ,under 10years-children,Other,Ebv
+Pediatrics Clinic,Male,8,122.0,19.1,12.832572,<5,1.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,11,132.0,29.0,16.64371,<5,1.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,9,140.0,28.0,14.285714,5 to <85,2.0,No,,, ,under 10years-children,Other,Autism
+Pediatrics Clinic,Male,14,146.0,35.5,16.654156,<5,1.0,No,,, ,over 10 years-adolescents,Other,Short stature
+Pediatrics Clinic,Male,8,137.5,36.4,19.252893,95+,4.0,Yes,No,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,11,144.0,31.3,15.0945215,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,10,144.0,33.5,16.155478,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Alopecia
+Pediatrics Clinic,Male,13,150.0,49.9,22.177778,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,7,118.5,26.2,18.657978,85 to <95,3.0,Yes,No,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,7,114.0,20.0,15.389351,5 to <85,2.0,No,,, ,under 10years-children,Other,Tonsellitis
+Pediatrics Clinic,Female,6,121.0,22.0,15.026296,5 to <85,2.0,No,,, ,under 10years-children,Other,Aciduria
+Pediatrics Clinic,Female,7,120.0,23.7,16.458334,5 to <85,2.0,No,,, ,under 10years-children,Other,Adhd
+Pediatrics Clinic,Female,7,118.0,19.8,14.220052,5 to <85,2.0,No,,, ,under 10years-children,Other,Perianal abcess
+Pediatrics Clinic,Male,13,139.5,29.6,15.210493,<5,1.0,No,,, ,over 10 years-adolescents,Other,Diarrhia
+Pediatrics Clinic,Female,6,128.8,23.6,14.225917,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,7,,25.1,,5 to <85,,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,7,113.3,18.0,14.022088,<5,1.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,9,132.0,27.2,15.610652,5 to <85,2.0,No,,, ,under 10years-children,Other,Learning difficulty
+Pediatrics Clinic,Male,6,110.0,18.6,15.371901,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,10,132.0,33.9,19.455923,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Tonsillities
+Pediatrics Clinic,Male,7,121.0,24.9,17.007034,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,6,107.0,16.0,13.975019,<5,1.0,No,,, ,under 10years-children,Other,Fanconi anemia
+Pediatrics Clinic,Male,12,144.0,33.6,16.203703,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,9,,26.0,,5 to <85,,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,7,130.5,26.1,15.32567,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,7,106.0,14.7,13.082948,<5,1.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,7,126.5,21.3,13.310628,5 to <85,2.0,No,,, ,under 10years-children,Other,Refractive error
+Pediatrics Clinic,Male,8,121.0,21.7,14.821392,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,9,127.0,19.9,12.338025,<5,1.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,11,134.0,24.8,13.81154,<5,1.0,No,,, ,over 10 years-adolescents,Other,Adenoid hypertrophy
+Pediatrics Clinic,Female,8,129.0,25.7,15.443784,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,6,108.0,16.5,14.1460905,5 to <85,2.0,No,,, ,under 10years-children,Other,Eczema
+Pediatrics Clinic,Male,6,106.4,17.0,15.016395,<5,1.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,10,139.0,24.1,12.4734745,<5,1.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,13,152.0,44.8,19.390581,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Allergy
+Pediatrics Clinic,Male,6,115.0,19.3,14.593573,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,7,118.0,23.0,16.518242,5 to <85,2.0,No,,, ,under 10years-children,Other,Cough
+Pediatrics Clinic,Male,8,118.3,17.2,12.2902,<5,1.0,No,,, ,under 10years-children,Other,Learning difficulty
+Pediatrics Clinic,Female,11,155.6,40.5,16.727684,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,6,118.0,27.9,20.037346,85 to <95,3.0,Yes,Yes,Refer to Dietician, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,9,134.0,31.4,17.48719,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,13,143.0,49.3,24.108759,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,13,161.0,41.2,15.894448,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,6,104.0,14.4,13.313609,<5,1.0,No,,, ,under 10years-children,Other,Adhd
+Pediatrics Clinic,Male,7,110.0,16.8,13.884297,<5,1.0,No,,, ,under 10years-children,Other,Adhd
+Pediatrics Clinic,Male,12,155.0,66.0,27.471384,85 to <95,3.0,Yes,No,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,12,127.0,27.1,16.802034,<5,1.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,10,134.0,25.9,14.424148,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,7,107.0,16.0,13.975019,<5,1.0,No,,, ,under 10years-children,Other,Fanconi anemia
+Pediatrics Clinic,Male,9,134.0,33.1,18.43395,5 to <85,2.0,No,,, ,under 10years-children,Other,Muscloskeletal pain
+Pediatrics Clinic,Female,9,129.0,32.2,19.349798,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,8,120.5,25.0,17.217335,5 to <85,2.0,No,,, ,under 10years-children,Other,Adhd
+Pediatrics Clinic,Male,6,115.0,23.8,17.99622,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,10,122.0,20.1,13.504435,<5,1.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,9,147.5,68.3,31.393278,95+,4.0,Yes,Yes,Refer to Dietician, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,11,141.5,40.0,19.977776,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Allergy rash
+Pediatrics Clinic,Female,7,130.0,23.5,13.905326,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,9,136.0,33.0,17.841696,5 to <85,2.0,No,,, ,under 10years-children,Other,Psoriasis
+Pediatrics Clinic,Male,7,116.0,16.7,12.41082,<5,1.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,10,144.5,46.3,22.174065,95+,4.0,Yes,No,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,6,123.0,26.8,17.714323,85 to <95,3.0,Yes,No,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,7,110.3,20.9,17.178896,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,12,141.0,33.9,17.051456,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,11,136.0,25.7,13.8948965,<5,1.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,8,123.5,25.5,16.718845,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,9,122.0,20.5,13.773179,<5,1.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,12,156.0,62.4,25.641026,95+,4.0,Yes,No,, ,over 10 years-adolescents,Other,Allergic rhinitis
+Pediatrics Clinic,Male,13,155.0,46.6,19.396461,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,8,126.5,29.9,18.684872,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,14,156.0,47.5,19.51841,<5,1.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,6,111.0,16.8,13.635257,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,9,121.0,19.8,13.523666,<5,1.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,7,129.0,25.3,15.203413,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,6,110.5,18.2,14.90551,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,8,132.5,22.5,12.8159485,5 to <85,2.0,No,,, ,under 10years-children,Other,Eczema
+Pediatrics Clinic,Male,7,124.0,23.0,14.958377,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,11,143.5,35.4,17.190933,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Vocal cord paralysis
+Pediatrics Clinic,Female,10,128.5,34.0,20.590773,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Short stature
+Pediatrics Clinic,Female,9,130.0,30.3,17.928993,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,7,117.5,19.6,14.196469,<5,1.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,6,114.0,16.9,13.004002,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,12,145.0,44.7,21.260405,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,11,102.0,12.9,12.399077,<5,1.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,10,120.0,21.9,15.208333,<5,1.0,No,,, ,over 10 years-adolescents,Other,Short stature
+Pediatrics Clinic,Female,6,99.5,14.3,14.444079,<5,1.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,11,141.0,31.8,15.995172,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Brucellosis
+Pediatrics Clinic,Female,8,130.5,32.5,19.083689,85 to <95,3.0,Yes,No,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,7,124.0,30.0,19.510925,95+,4.0,Yes,No,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,8,135.5,45.0,24.50947,95+,4.0,Yes,Yes,Refer to Dietician, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,14,162.5,73.0,27.64497,95+,4.0,Yes,No,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,8,135.0,28.9,15.857339,85 to <95,3.0,Yes,No,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,6,119.0,26.0,18.360285,95+,4.0,Yes,No,, ,under 10years-children,Other,Osa
+Pediatrics Clinic,Male,6,110.7,15.9,12.974836,<5,1.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,11,145.0,67.0,31.866825,95+,4.0,Yes,Yes,Refer to Endocrinologist, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,6,119.0,24.5,17.301039,85 to <95,3.0,Yes,No,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,12,159.0,81.2,32.118984,95+,4.0,Yes,Yes,Refer to Dietician / Endocrinologist, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,6,114.5,24.6,18.763945,85 to <95,3.0,Yes,No,, ,under 10years-children,Other,Adenoid hypertrophy
+Pediatrics Clinic,Male,10,143.8,65.0,31.433706,95+,4.0,Yes,No,, ,over 10 years-adolescents,Other,Cellulitis
+Pediatrics Clinic,Female,10,137.0,44.7,23.815866,85 to <95,3.0,Yes,No,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,9,124.5,22.3,14.386865,<5,1.0,No,,, ,under 10years-children,Other,Fragile x syndrome
+Pediatrics Clinic,Male,12,,24.5,,<5,,No,,, ,over 10 years-adolescents,Other,Mental retardation
+Pediatrics Clinic,Female,8,108.0,14.8,12.688615,<5,1.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,10,145.0,29.7,14.12604,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Eczema
+Pediatrics Clinic,Male,12,140.0,34.0,17.34694,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Hematourea
+Pediatrics Clinic,Male,6,111.0,18.1,14.690366,5 to <85,2.0,No,,, ,under 10years-children,Other,Adhd
+Pediatrics Clinic,Male,7,119.5,18.9,13.235063,<5,1.0,No,,, ,under 10years-children,Other,Henoch schenolien purpora
+Pediatrics Clinic,Female,7,120.4,19.5,13.4518385,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,7,,20.0,,5 to <85,,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,11,150.0,33.7,14.9777775,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Eczema
+Pediatrics Clinic,Male,8,131.0,28.9,16.840511,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,10,125.0,20.0,12.8,<5,1.0,No,,, ,over 10 years-adolescents,Other,School failure
+Pediatrics Clinic,Female,6,119.5,17.5,12.254687,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,8,125.0,23.1,14.784,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,8,109.0,18.0,15.15024,<5,1.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,8,115.8,14.7,10.962263,<5,1.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,7,116.5,16.1,11.86244,<5,1.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,8,122.0,22.2,14.915345,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,8,131.5,25.1,14.515173,5 to <85,2.0,No,,, ,under 10years-children,Other,Lymphoadenopathy
+Pediatrics Clinic,Female,7,119.5,17.3,12.114634,<5,1.0,No,,, ,under 10years-children,Other,Malnutrition
+Pediatrics Clinic,Female,12,144.0,34.0,16.396605,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,11,126.0,27.2,17.132778,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Short stature
+Pediatrics Clinic,Female,11,123.0,40.4,26.703682,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Female,7,113.0,16.1,12.608662,<5,1.0,No,,, ,under 10years-children,Other,Microcephaly
+Pediatrics Clinic,Male,9,122.0,20.4,13.705993,<5,1.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,7,120.5,24.1,16.597511,5 to <85,2.0,No,,, ,under 10years-children,Other,Iron deficiency anemia
+Pediatrics Clinic,Female,6,115.0,22.7,17.164461,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Female,6,125.0,23.0,14.72,5 to <85,2.0,No,,, ,under 10years-children,Other,Hearing problem
+Pediatrics Clinic,Female,13,155.0,41.0,17.065557,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,6,116.2,22.4,16.589594,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,13,134.0,46.7,26.00802,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,11,134.8,33.9,18.65606,5 to <85,2.0,No,,, ,over 10 years-adolescents,Abdominal Pa,
+Pediatrics Clinic,Male,8,127.0,21.9,13.578027,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,12,153.0,45.0,19.223375,5 to <85,2.0,No,,, ,over 10 years-adolescents,Other,Chest pain
+Pediatrics Clinic,Female,8,136.0,27.1,14.651816,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,7,119.0,23.1,16.312407,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
+Pediatrics Clinic,Male,6,115.5,20.5,15.367028,5 to <85,2.0,No,,, ,under 10years-children,Other,Gerd
+Pediatrics Clinic,Female,8,119.0,20.9,14.758844,5 to <85,2.0,No,,, ,under 10years-children,Abdominal Pa,
