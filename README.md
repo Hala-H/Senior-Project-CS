@@ -15,9 +15,9 @@ To ensure that our app runs on you system, you will have to install Streamlit.
   <li> Make sure you have python installed in your system </li>
   <li> Use the following command (in a terminal) to install Streamlit </li>
   
-    ```
+    
     pip install Streamlit 
-    ```
+    
   
   <li> To run the app, you will need to follow the following steps: </li>
   <ol>
