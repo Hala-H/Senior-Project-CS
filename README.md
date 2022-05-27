@@ -1,5 +1,5 @@
 # Senior-Project-CS
-Childhood Obesity Prediction Model 
+My undergraduate senior project under the title: Prediction of Childhood Obesity using Machine Learning in Saudi Arabia.
 
 ## About
 Childhood obesity causes several health problems. It is directly linked with causing obesity in the future and its health complications. However, applying intervention
@@ -14,14 +14,20 @@ To ensure that our app runs on you system, you will have to install Streamlit.
 <ol>
   <li> Make sure you have python installed in your system </li>
   <li> Use the following command (in a terminal) to install Streamlit </li>
-   ``` pip install Streamlit  ```
+  ```
+    pip install Streamlit 
+  ```
   <li> To run the app, you will need to follow the following steps: </li>
   <ol>
     <li> Open a terminal </li>
     <li> Change your directory to the directory where the Streamlit app is using the following command: </li>
-     ``` cd 'directory path'  ```
+     ``` 
+      cd 'directory path'  
+     ```
     <li> Run the following command </li>
-     ``` streamlit run app.py  ```
+     ``` 
+      streamlit run app.py 
+     ```
   </ol>
   <li> When you the app, you start a web server that runs the interactive application on your local computer at http://localhost:8501. </li>
 </ol> 
