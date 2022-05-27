@@ -22,12 +22,10 @@ To ensure that our app runs on you system, you will have to install Streamlit.
   <li> To run the app, you will need to follow the following steps: </li>
   <ol>
     <li> Open a terminal </li>
-    <li> Change your directory to the directory where the Streamlit app is using the following command: </li>
-      
+    <li> Change your directory to the directory where the Streamlit app is using the following command: </li> 
     
       cd 'directory path'  
-      
-    
+     
     <li> Run the following command </li>
       
     
