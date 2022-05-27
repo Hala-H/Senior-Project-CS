@@ -23,13 +23,17 @@ To ensure that our app runs on you system, you will have to install Streamlit.
   <ol>
     <li> Open a terminal </li>
     <li> Change your directory to the directory where the Streamlit app is using the following command: </li>
-     ``` 
+      
+    
       cd 'directory path'  
-     ```
+      
+    
     <li> Run the following command </li>
-     ``` 
+      
+    
       streamlit run app.py 
-     ```
+      
+    
   </ol>
   <li> When you the app, you start a web server that runs the interactive application on your local computer at http://localhost:8501. </li>
 </ol> 
