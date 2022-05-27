@@ -37,6 +37,6 @@ To ensure that our app runs on you system, you will have to install Streamlit.
 Video: 
 https://youtu.be/K_IV1rwRQDU
 
-![ml1](https://user-images.githubusercontent.com/47666430/170698436-b6370a6c-ac5c-4874-b628-c23e6894d99e.jpg)
 
+![home1](https://user-images.githubusercontent.com/47666430/170698563-94178c8b-a1e0-4c8a-b50f-084243c5c291.jpg)
 
